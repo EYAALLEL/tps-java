@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>tp1</name>
+=======
+	<name>tp3</name>
+>>>>>>> 5fcc8082e1203ae4d94b9a835daed441a8bee0d1
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,6 +18,7 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+<<<<<<< HEAD
 	<filteredResources>
 		<filter>
 			<id>1728241238409</id>
@@ -25,4 +30,6 @@
 			</matcher>
 		</filter>
 	</filteredResources>
+=======
+>>>>>>> 5fcc8082e1203ae4d94b9a835daed441a8bee0d1
 </projectDescription>
